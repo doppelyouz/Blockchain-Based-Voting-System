@@ -2,9 +2,9 @@
   "type": "mysql",
   "host": "localhost",
   "port": 3306,
-  "username": "bbvs",
-  "password": "Password$$",
-  "database": "bbvs",
+  "username": "aza",
+  "password": "aza123",
+  "database": "azadb",
   "synchronize": false,
   "logging": true,
   "cli": {
