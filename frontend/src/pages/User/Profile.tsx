@@ -18,15 +18,6 @@ const Profile = (props: RouteProps) => {
           Logout
         </button>
       </div>
-
-      <div className="right-panel">
-        <span className="title-small">Profile</span>
-
-        <div className="skeleton"></div>
-        <div className="skeleton"></div>
-        <div className="skeleton"></div>
-        <div className="skeleton"></div>
-      </div>
     </div>
   );
 };
